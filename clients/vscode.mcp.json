@@ -1,0 +1,5 @@
+{
+  "servers": {
+    "factusur": { "type": "http", "url": "https://factusur.com/mcp" }
+  }
+}

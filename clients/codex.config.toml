@@ -1,0 +1,6 @@
+# ~/.codex/config.toml — OAuth : puis `codex mcp login factusur`
+[mcp_servers.factusur]
+url = "https://factusur.com/mcp"
+
+# Variante clé d'accès (décommentez) :
+# bearer_token_env_var = "FACTUSUR_API_KEY"
